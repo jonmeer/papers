@@ -15,3 +15,8 @@ How to add a PDF:
 
 3. Save above as index_name.html
 4. Link new paper as: https://github.com/jonmeer/papers/blob/main/PDFNAME.pdf
+
+
+
+How to update a PDF:
+1. Upload PDF under exact same file name & commit the change
